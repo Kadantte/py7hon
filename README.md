@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi, I'm a person gender equality advocates who like code and are developing an OS with the Linux Kernel. I know JavaScript, TypeScript, C, C++, Assembly, and Python.
 <!--
 **py7hon/py7hon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
