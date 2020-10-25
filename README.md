@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 Hi, I'm a person gender equality advocates who like code and are developing an OS with the Linux Kernel. I know JavaScript, TypeScript, C, C++, Assembly, and Python.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=py7hon&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Py7hon's github stats](https://github-readme-stats.vercel.app/api?username=py7hon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **py7hon/py7hon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
